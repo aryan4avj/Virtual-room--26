@@ -24,3 +24,7 @@ Our code is working fine for H1 and H2 category but facing some errors in remain
 
 ## Screenshots:
 
+ ![](Streamlit UI.PNG)
+ ![](1.PNG)
+ ![](2.PNG)
+ ![](3.PNG)
