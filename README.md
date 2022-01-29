@@ -15,3 +15,12 @@ So that review/monitoring should be initiated for the HIGH RISK & MEDIUM RISK cu
 
 ## Our approach:
 
+Considering less time we used python for our backend, and used streamlit framework for UI, b y adding HTML files of login, Customer_Search and Main.
+
+We Analysed the dataset using Pandas Library of Python in Google Colab, and tried to create the logics for High, medium and low independently in order to cluster the customers.
+
+There were 4 categories in High - H1, H2, H3 & H4
+Our code is working fine for H1 and H2 category but facing some errors in remaining.
+
+## Screenshots:
+
