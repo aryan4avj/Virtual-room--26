@@ -1,6 +1,6 @@
 # Customer Rating System
 
-Problem Statement: 
+## Problem Statement: 
 
 Every bank runs on trust of its customer and it is equally important for a bank to maintain reputation in the market.
 One scam or money laundering activity could make any bank reputation to go on toss, to avoid such situation as a
@@ -13,5 +13,5 @@ customer and LOW RISK rating customer.
 
 So that review/monitoring should be initiated for the HIGH RISK & MEDIUM RISK customers.
 
-Our approach:
+## Our approach:
 
